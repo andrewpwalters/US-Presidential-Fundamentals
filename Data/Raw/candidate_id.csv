@@ -1,0 +1,38 @@
+candidate_id,candidate_name,birthday,party_id,prev_vp,prev_sen,prev_rep,prev_gov,prev_cab
+stevenson,Adlai Stevenson II,1900-02-05,d,0,0,0,0,1
+gore,Al Gore,1948-03-31,d,1,1,1,0,0
+obama,Barack Obama,1961-08-04,d,0,1,0,0,0
+clinton_b,Bill Clinton,1946-08-19,d,0,0,0,1,0
+mcgovern,George McGovern,1922-07-19,d,0,1,1,0,0
+wallace_g,George Wallace,1919-08-25,d,0,0,0,1,0
+truman,Harry S. Truman,1884-05-08,d,1,1,0,0,0
+clinton_h,Hillary Clinton,1947-10-26,d,0,1,0,0,1
+humphrey,Hubert Humphrey,1911-05-27,d,1,1,0,0,0
+carter,Jimmy Carter,1924-10-01,d,0,0,0,1,0
+biden,Joe Biden,1942-11-20,d,1,1,0,0,0
+kennedy,John F. Kennedy,1917-05-29,d,0,1,1,0,0
+kerry,John Kerry,1943-12-11,d,0,1,0,0,0
+harris,Kamala Harris,1964-10-20,d,0,1,0,0,0
+johnson_l,Lyndon B. Johnson,1908-08-27,d,1,1,1,0,0
+dukakis,Michael Dukakis,1933-11-03,d,0,0,0,1,0
+thurmond,Strom Thurmond,1902-12-05,d,0,1,0,1,0
+mondale,Walter Mondale,1928-01-05,d,1,1,0,0,0
+anderson,John B. Anderson,1922-02-15,i,0,0,1,0,0
+nader,Ralph Nader,1934-02-27,i,0,0,0,0,0
+perot,Ross Perot,1930-06-27,i,0,0,0,0,0
+johnson_g,Gary Johnson,1953-01-01,i,0,0,0,1,0
+abstain,Abstain,,n,0,0,0,0,0
+other,Other,,o,0,0,0,0,0
+wallace_h,Henry A. Wallace,"Oct 7, 1888",i,1,0,0,0,1
+goldwater,Barry Goldwater,"Jan 2, 1909",r,0,1,0,0,0
+dole,Bob Dole,"Jul 22, 1923",r,0,1,1,0,0
+trump,Donald Trump,"Jun 14, 1946",r,0,0,0,0,0
+eisenhower,Dwight D. Eisenhower,"Oct 14, 1890",r,0,0,0,0,0
+bush_hw,George H.W. Bush,"Jun 12, 1924",r,1,0,1,0,1
+bush_w,George W. Bush,"Jul 6, 1946",r,0,0,0,1,0
+ford,Gerald Ford,"Jul 14, 1913",r,1,0,1,0,0
+mccain,John McCain,"Aug 29, 1936",r,0,1,1,0,0
+romney,Mitt Romney,"Mar 12, 1947",r,0,0,0,1,0
+nixon,Richard Nixon,"Jan 9, 1913",r,1,1,1,0,0
+reagan,Ronald Reagan,"Feb 6, 1911",r,0,0,0,1,0
+dewey,Thomas E. Dewey,"Mar 24, 1902",r,0,0,0,1,0
