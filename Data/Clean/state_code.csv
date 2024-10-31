@@ -1,58 +1,58 @@
-state,state_code,electoral_2020,electoral_2024
-Alabama,AL,9,9
-Alaska,AK,3,3
-Arizona,AZ,11,11
-Arkansas,AR,6,6
-California,CA,55,54
-Colorado,CO,9,10
-Connecticut,CT,7,7
-Delaware,DE,3,3
-Florida,FL,29,30
-Georgia,GA,16,16
-Hawaii,HI,4,4
-Idaho,ID,4,4
-Illinois,IL,20,19
-Indiana,IN,11,11
-Iowa,IA,6,6
-Kansas,KS,6,6
-Kentucky,KY,8,8
-Louisiana,LA,8,8
-Maine,ME,2,2
-Maine CD-1,ME-1,1,1
-Maine CD-2,ME-2,1,1
-Maryland,MD,10,10
-Massachusetts,MA,11,11
-Michigan,MI,16,15
-Minnesota,MN,10,10
-Mississippi,MS,6,6
-Missouri,MO,10,10
-Montana,MT,3,4
-National,US,0,0
-Nebraska,NE,2,2
-Nebraska CD-1,NE-1,1,1
-Nebraska CD-2,NE-2,1,1
-Nebraska CD-3,NE-3,1,1
-Nevada,NV,6,6
-New Hampshire,NH,4,4
-New Jersey,NJ,14,14
-New Mexico,NM,5,5
-New York,NY,29,28
-North Carolina,NC,15,16
-North Dakota,ND,3,3
-Ohio,OH,18,17
-Oklahoma,OK,7,7
-Oregon,OR,7,8
-Pennsylvania,PA,20,19
-Rhode Island,RI,4,4
-South Carolina,SC,9,9
-South Dakota,SD,3,3
-Tennessee,TN,11,11
-Texas,TX,38,40
-Utah,UT,6,6
-Vermont,VT,3,3
-Virginia,VA,13,13
-Washington,WA,12,12
-West Virginia,WV,5,4
-Wisconsin,WI,10,10
-Wyoming,WY,3,3
-District of Columbia,DC,3,3
+state,state_code,electoral_2000,electoral_2004,electoral_2008,electoral_2012,electoral_2016,electoral_2020,electoral_2024,electoral_2028
+Alabama,AL,9,9,9,9,9,9,9,9
+Alaska,AK,3,3,3,3,3,3,3,3
+Arizona,AZ,8,10,10,11,11,11,11,11
+Arkansas,AR,6,6,6,6,6,6,6,6
+California,CA,54,55,55,55,55,55,54,54
+Colorado,CO,8,9,9,9,9,9,10,10
+Connecticut,CT,8,7,7,7,7,7,7,7
+Delaware,DE,3,3,3,3,3,3,3,3
+District of Columbia,DC,3,3,3,3,3,3,3,3
+Florida,FL,25,27,27,29,29,29,30,30
+Georgia,GA,13,15,15,16,16,16,16,16
+Hawaii,HI,4,4,4,4,4,4,4,4
+Idaho,ID,4,4,4,4,4,4,4,4
+Illinois,IL,22,21,21,20,20,20,19,19
+Indiana,IN,12,11,11,11,11,11,11,11
+Iowa,IA,7,7,7,6,6,6,6,6
+Kansas,KS,6,6,6,6,6,6,6,6
+Kentucky,KY,8,8,8,8,8,8,8,8
+Louisiana,LA,9,9,9,8,8,8,8,8
+Maine,ME,2,2,2,2,2,2,2,2
+Maine CD-1,ME-1,1,1,1,1,1,1,1,1
+Maine CD-2,ME-2,1,1,1,1,1,1,1,1
+Maryland,MD,10,10,10,10,10,10,10,10
+Massachusetts,MA,12,12,12,11,11,11,11,11
+Michigan,MI,18,17,17,16,16,16,15,15
+Minnesota,MN,10,10,10,10,10,10,10,10
+Mississippi,MS,7,6,6,6,6,6,6,6
+Missouri,MO,11,11,11,10,10,10,10,10
+Montana,MT,3,3,3,3,3,3,4,4
+National,US,0,0,0,0,0,0,0,0
+Nebraska,NE,2,2,2,2,2,2,2,2
+Nebraska CD-1,NE-1,1,1,1,1,1,1,1,1
+Nebraska CD-2,NE-2,1,1,1,1,1,1,1,1
+Nebraska CD-3,NE-3,1,1,1,1,1,1,1,1
+Nevada,NV,4,5,5,6,6,6,6,6
+New Hampshire,NH,4,4,4,4,4,4,4,4
+New Jersey,NJ,15,15,15,14,14,14,14,14
+New Mexico,NM,5,5,5,5,5,5,5,5
+New York,NY,33,31,31,29,29,29,28,28
+North Carolina,NC,14,15,15,15,15,15,16,16
+North Dakota,ND,3,3,3,3,3,3,3,3
+Ohio,OH,21,20,20,18,18,18,17,17
+Oklahoma,OK,8,7,7,7,7,7,7,7
+Oregon,OR,7,7,7,7,7,7,8,8
+Pennsylvania,PA,23,21,21,20,20,20,19,19
+Rhode Island,RI,4,4,4,4,4,4,4,4
+South Carolina,SC,8,8,8,9,9,9,9,9
+South Dakota,SD,3,3,3,3,3,3,3,3
+Tennessee,TN,11,11,11,11,11,11,11,11
+Texas,TX,32,34,34,38,38,38,40,40
+Utah,UT,5,5,5,6,6,6,6,6
+Vermont,VT,3,3,3,3,3,3,3,3
+Virginia,VA,13,13,13,13,13,13,13,13
+Washington,WA,11,11,11,12,12,12,12,12
+West Virginia,WV,5,5,5,5,5,5,4,4
+Wisconsin,WI,11,10,10,10,10,10,10,10
+Wyoming,WY,3,3,3,3,3,3,3,3
